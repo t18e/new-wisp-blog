@@ -15,6 +15,7 @@ I'm currently...
   - Blockchain identity verificaction: The potential existence of an omnichain. 
   - Digital dualism: The growing overlap between the online & offline selves.
 
+
 I enjoy ideating, prototyping or building for underserved markets. Here are some things I've worked on:
 
 - Almanac: AMA forum for college alumni
@@ -25,7 +26,9 @@ I enjoy ideating, prototyping or building for underserved markets. Here are some
 - Ren: Sensor ring for behavioural monitoring
 - Staycey: Swipe-and-click hotel booking
 
-[Shoot me an email](mailto:mail@t18e.com)
+
+You can reach me: [Twitter](x.com/teadjygb), [LinkedIn](linkedin.com/tiwa-adejuyigbe) or [email](mailto:mail@t18e.com).
+
 
 `;
 
