@@ -6,36 +6,36 @@ import Markdown from "react-markdown";
 
 const content = `# About Me
 
-![Samantha](https://imagedelivery.net/lLmNeOP7HXG0OqaG97wimw/clvlugru90000o4g8ahxp069s/db7abbe3-aa5c-433e-a16d-cbf137d1c9e5.png/public)
+I'm currently...
 
-Hey there! I'm Samantha, a 28-year-old former corporate warrior who decided to ditch the 9-to-5 grind and embark on an adventure of a lifetime. After years of hustling in a high-pressure job, I realized that life is too short to be stuck in an office, staring at spreadsheets all day.
+- ...studying Politics @ UCL with a focus on innovation policy, political representation, and African political economy. 
+- ...reading a bit more fiction at the moment and writing about various topics on my blog.
+- ...interested in the following concepts:
+* Sociolinguistics: The changing nature of language in digital spaces.
+* Blockchain identity verificaction: The potential existence of an omnichain. 
+* Digital dualism: The growing overlap between the online & offline selves.
 
-So I took a leap of faith, quit my cushy job in Singapore, and decided to see the world on my own terms. No more stuffy meetings or rigid schedules – just me, my backpack, and an open road ahead.
+I enjoy ideating, prototyping or building for underserved markets. Here are some things I've worked on:
 
-![Samantha](https://imagedelivery.net/lLmNeOP7HXG0OqaG97wimw/clvlugru90000o4g8ahxp069s/6b080e65-2329-4a36-ad5c-0a6af8d9aeb1.png/public)
+- Brade: Automated accounting & tax for salons
+- Almanac: AMA forum for college alumni
+- Fanny: Multitask agents for OnlyFans creators
+- Colony: Tenant-first property search
+- Staycey: Swipe-and-click hotel booking
+- Ren: Sensor ring for behavioural monitoring
 
-This blog is where I'll be documenting my travels, sharing my experiences, and hopefully inspiring others to follow their wanderlust. From trekking through remote villages to savoring local cuisines, I'm on a mission to immerse myself in different cultures and create memories that will last a lifetime.
-
-But this journey isn't just about checking off destinations from a bucket list. It's about self-discovery, personal growth, and finding the courage to live life on my own terms. I'll be honest and raw, sharing the highs and lows, the moments of pure bliss and the inevitable challenges that come with solo travel.
-
-So join me on this adventure, and let's explore the world together! Who knows, maybe my stories will inspire you to take that leap of faith and pursue your own dreams, whatever they may be.
-
-Let's go on an adventure!
-
-Love,
-
-Samantha`;
+`;
 
 export async function generateMetadata() {
   return {
-    title: "About Me",
-    description: "Learn more about Samantha and her travel adventures",
+    title: "About | Tiwa Adejuyigbe",
+    description: "Get to know me in <200 words.",
     openGraph: {
       title: "About Me",
-      description: "Learn more about Samantha and her travel adventures",
+      description: "Get to know me in <200 words.",
       images: [
         signOgImageUrl({
-          title: "Samantha",
+          title: "Tiwa Adejuyigbe",
           label: "About Me",
           brand: config.blog.name,
         }),
