@@ -11,9 +11,9 @@ I'm currently...
 - ...studying Politics @ UCL with a focus on innovation policy, political representation, and African political economy. 
 - ...reading a bit more fiction at the moment and writing about various topics on my blog.
 - ...interested in the following concepts:
-* Sociolinguistics: The changing nature of language in digital spaces.
-* Blockchain identity verificaction: The potential existence of an omnichain. 
-* Digital dualism: The growing overlap between the online & offline selves.
+  - Sociolinguistics: The changing nature of language in digital spaces.
+  - Blockchain identity verificaction: The potential existence of an omnichain. 
+  - Digital dualism: The growing overlap between the online & offline selves.
 
 I enjoy ideating, prototyping or building for underserved markets. Here are some things I've worked on:
 
@@ -24,6 +24,8 @@ I enjoy ideating, prototyping or building for underserved markets. Here are some
 - Pubbler: Publishing assistant for Substack
 - Ren: Sensor ring for behavioural monitoring
 - Staycey: Swipe-and-click hotel booking
+
+[Shoot me an email](mailto:mail@t18e.com)
 
 `;
 
