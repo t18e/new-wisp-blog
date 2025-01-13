@@ -17,12 +17,13 @@ I'm currently...
 
 I enjoy ideating, prototyping or building for underserved markets. Here are some things I've worked on:
 
-- Brade: Automated accounting & tax for salons
 - Almanac: AMA forum for college alumni
-- Fanny: Multitask agents for OnlyFans creators
+- Brade: Automated accounting & tax for salons
 - Colony: Tenant-first property search
-- Staycey: Swipe-and-click hotel booking
+- Fanny: Multitask agents for OnlyFans creators
+- Pubbler: Publishing assistant for Substack
 - Ren: Sensor ring for behavioural monitoring
+- Staycey: Swipe-and-click hotel booking
 
 `;
 
