@@ -10,21 +10,10 @@ I'm currently...
 
 - ...studying Politics @ UCL with a focus on innovation policy, political representation, and African political economy. 
 - ...reading a bit more fiction at the moment and [writing](t18e.com/blog) about various topics on my blog.
-- ...interested in the following concepts:
-  - Sociolinguistics: The changing nature of language in digital spaces.
-  - Blockchain identity verificaction: The potential existence of an omnichain. 
-  - Digital dualism: The growing overlap between the online & offline selves.
+- ...interested in sociolinguistics, digital dualism & blockchain use cases.
 
 
-I enjoy ideating, prototyping or building for underserved markets. Here are some things I've worked on:
-
-- Almanac: AMA forum for college alumni
-- Brade: Automated accounting & tax for salons
-- Colony: Tenant-first property search
-- Fanny: Multitask agents for OnlyFans creators
-- Pubbler: Publishing assistant for Substack
-- Ren: Sensor ring for behavioural monitoring
-- Staycey: Swipe-and-click hotel booking
+I enjoy ideating, prototyping or building for underserved markets. I've recently worked on: an AMA forum for college alumni, automated accounting & tax for salons, swipe-and-click hotel booking, and multitask agents for OnlyFans creators.
 
 
 You can reach me: [Twitter](x.com/teadjygb), [LinkedIn](linkedin.com/tiwa-adejuyigbe) or [email](mailto:mail@t18e.com).
