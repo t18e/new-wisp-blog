@@ -9,7 +9,7 @@ const content = `# About Me
 I'm currently...
 
 - ...studying Politics @ UCL with a focus on innovation policy, political representation, and African political economy. 
-- ...reading a bit more fiction at the moment and writing about various topics on my blog.
+- ...reading a bit more fiction at the moment and [writing](t18e.com/blog) about various topics on my blog.
 - ...interested in the following concepts:
   - Sociolinguistics: The changing nature of language in digital spaces.
   - Blockchain identity verificaction: The potential existence of an omnichain. 
