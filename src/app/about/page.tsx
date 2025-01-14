@@ -6,17 +6,11 @@ import Markdown from "react-markdown";
 
 const content = `# About Me
 
-I'm currently...
+* Studying Politics @ UCL with a focus on innovation policy, political representation, and African political economy. 
+* Reading a few papers on blockchain use cases and some books on effective design principles.
+* Writing about various concepts on [my blog](https://t18e.com). I'm currently interested in sociolinguistics and digital dualism.
 
-- ...studying Politics @ UCL with a focus on innovation policy, political representation, and African political economy. 
-- ...reading a bit more fiction at the moment and [writing](t18e.com/blog) about various topics on my blog.
-- ...interested in sociolinguistics, digital dualism & blockchain use cases.
-
-
-I enjoy ideating, prototyping or building for underserved markets. I've recently worked on: an AMA forum for college alumni, automated accounting & tax for salons, swipe-and-click hotel booking, and multitask agents for OnlyFans creators.
-
-
-You can reach me: [Twitter](x.com/teadjygb), [LinkedIn](linkedin.com/tiwa-adejuyigbe) or [email](mailto:mail@t18e.com).
+You can reach me: [mail@t18e.com](mailto:mail@t18e.com).
 
 
 `;
