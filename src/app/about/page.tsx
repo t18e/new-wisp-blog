@@ -17,7 +17,7 @@ I enjoy ideating & building for underserved markets. Here are a few of my favour
 - Ren: a wearable ring for treating addictions. Drug and alcohol addiction is rising, particularly among young people. However, many hesitate to seek help due to stigma. Ren offered a discreet way for individuals to reach out by tapping the ring, using Bluetooth Low Energy (BLE) to send a signal to friends and family. It also tracked progress. The Ren ring was designed based on Prochaska and DiClemente’s transtheoretical model of behavioral change.
 - Banga: Many Nigerian service businesses use WhatsApp for manual appointment scheduling. Many Nigerian service businesses rely on WhatsApp for manual appointment scheduling, which reduces staff productivity. Banga automated the entire process, from booking to email confirmations, cutting booking time by 80%. It also enabled customers to easily cancel, reschedule, or leave reviews via automated agents, which not only boosted staff productivity but also enhanced the overall customer experience.
 
-It's uncertain why some of these didn't succeed as expected. In some cases, it was simply a matter of [inertia](https://t18e.com/blog/inertia). In other instances, it's possible we were just 1-2 pivots away from getting it right. 
+It's uncertain why some of these didn't succeed as expected. In some cases, it was simply a matter of [inertia](https://t18e.com/blog/inertia). In other instances, it's quite possible we were just 1-2 pivots away from getting it right. 
 
 I'm not working on anything at the moment, but you can reach me via [email](mailto:mail@t18e.com) or [LinkedIm](https://linkedin.com/in/tiwa-adejuyigbe) with any questions.
 
