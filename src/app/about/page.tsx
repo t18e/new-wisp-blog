@@ -6,9 +6,16 @@ import Markdown from "react-markdown";
 
 const content = `# About Me
 
+I'm currently...
 * Studying Politics @ UCL with a focus on innovation policy, political representation, and African political economy. 
-* Reading a few papers on blockchain use cases and some books on effective design principles.
-* Writing about various concepts on [my blog](https://t18e.com). I'm currently interested in sociolinguistics and digital dualism.
+* Reading a few papers on blockchain use cases and some books on effective design principles. Also reading a few more
+novels. 
+* Writing about various concepts on [my blog](https://t18e.com). I'm quite interested in sociolinguistics and digital dualism at the moment.
+
+I enjoy ideating & building for underserved markets. Here are a few of my favourite products I've worked on during my time at UCL:
+- Brade: a plug-and-play accounting tool for salons and other beauty & grooming services. Most salons use 3-5 payment channels, which makes tracking and reconciling payments difficult without accounting skills. Many salons either hire help or spend hours managing their finances. Brade made this easier by combining payments from booking systems and card readers, matching them with business bank accounts, and helping with tax filing through the Make Tax Digital scheme. It also provided insights compared to industry standards.
+- Ren: a wearable ring for treating addictions. Drug and alcohol addiction is rising, particularly among young people. However, many hesitate to seek help due to stigma. Ren offered a discreet way for individuals to reach out by tapping the ring, using Bluetooth Low Energy (BLE) to send a signal to friends and family. It also tracked progress. The Ren ring was designed based on Prochaska and DiClemente’s transtheoretical model of behavioral change.
+- Banga: 
 
 You can reach me: [mail@t18e.com](mailto:mail@t18e.com).
 
