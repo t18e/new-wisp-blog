@@ -19,7 +19,7 @@ I enjoy ideating & building for underserved markets. Here are a few of my favour
 
 It's uncertain why some of these didn't succeed as expected. In some cases, it was simply a matter of [inertia](https://t18e.com/blog/inertia). In other instances, it's quite possible we were just 1-2 pivots away from getting it right. 
 
-I'm not working on anything at the moment, but you can reach me via [email](mailto:mail@t18e.com) or [LinkedIm](https://linkedin.com/in/tiwa-adejuyigbe) with any questions.
+I'm not working on anything at the moment, but you can reach me via [email](mailto:mail@t18e.com) or [LinkedIn](https://linkedin.com/in/tiwa-adejuyigbe) with any questions.
 
 
 `;
