@@ -8,14 +8,15 @@ const content = `# About Me
 
 I'm currently...
 * Studying Politics @ UCL with a focus on innovation policy, political representation, and African political economy. 
-* Reading a few papers on blockchain use cases and some books on effective design principles. Also reading a few more
-novels. 
-* Writing about various concepts on [my blog](https://t18e.com). I'm quite interested in sociolinguistics and digital dualism at the moment.
+* Reading a few papers on blockchain use cases and a few more novels.
+* Writing about various concepts on [my blog](https://t18e.com/blog). I'm quite interested in sociolinguistics and digital dualism at the moment.
 
 I enjoy ideating & building for underserved markets. Here are a few of my favourite products I've worked on during my time at UCL:
-- Brade: a plug-and-play accounting tool for salons and other beauty & grooming services. Most salons use 3-5 payment channels, which makes tracking and reconciling payments difficult without accounting skills. Many salons either hire help or spend hours managing their finances. Brade made this easier by combining payments from booking systems and card readers, matching them with business bank accounts, and helping with tax filing through the Make Tax Digital scheme. It also provided insights compared to industry standards.
-- Ren: a wearable ring for treating addictions. Drug and alcohol addiction is rising, particularly among young people. However, many hesitate to seek help due to stigma. Ren offered a discreet way for individuals to reach out by tapping the ring, using Bluetooth Low Energy (BLE) to send a signal to friends and family. The Ren ring was designed based on Prochaska and DiClemente’s transtheoretical model of behavioral change, and tracked progress with milestones based on the framework.
-- Banga: Many Nigerian service businesses rely on WhatsApp for manual appointment scheduling, which reduces staff productivity. Banga automated the entire process via WhatsApp, from booking to email confirmations, cutting booking time by 80%. It also enabled customers to easily cancel, reschedule, or leave reviews via automated agents, which not only boosted staff productivity but also enhanced the overall customer experience.
+- Brade: a plug-and-play accounting tool for salons and other beauty & grooming services. Most salons use 3-5 payment channels, which makes tracking and reconciling payments difficult without accounting skills. Many salons either hire help or spend hours managing their finances. Brade made this easier by combining payments from booking systems and card readers, matching them with business bank accounts, and helping with tax filing through the Make Tax Digital scheme.
+
+- Ren: a wearable ring for treating addictions. Drug and alcohol addiction is rising, particularly among young people, but many hesitate to seek help due to stigma. Ren offered a discreet way for individuals to reach out for help by tapping the ring, using Bluetooth Low Energy (BLE) to send a signal to friends and family. The Ren ring was designed based on Prochaska and DiClemente’s transtheoretical model of behavioral change, and tracked progress with milestones based on the framework.
+
+- Banga: WhatsApp booking agents for restaurants. Many Nigerian service businesses rely on WhatsApp for manual appointment scheduling, which reduces staff productivity. Banga automated the entire process via WhatsApp, from booking to email confirmations, cutting booking time by 80%. It also enabled customers to easily cancel, reschedule, or leave reviews via automated agents, which not only boosted staff productivity but also enhanced the overall customer experience.
 
 It's uncertain why some of these didn't succeed as expected. In some cases, it was simply a matter of [inertia](https://t18e.com/blog/inertia). In other instances, it's quite possible we 'overniched' and were just 1-2 pivots away from getting it right. 
 
