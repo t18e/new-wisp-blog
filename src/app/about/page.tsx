@@ -8,7 +8,7 @@ const content = `
 
 ## I'm currently...
 * studying Politics at UCL with a focus on innovation policy and IPE. 
-* reading more fiction with the [En recommendation engine](https://en.app/).
+* reading more fiction with the [En search engine](https://en.app/).
 * writing about various topics on [my blog](https://t18e.com)
 
 ## Some things I've worked on:
