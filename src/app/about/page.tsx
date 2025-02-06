@@ -12,7 +12,7 @@ const content = `
 * writing about various topics on [my blog](https://t18e.com)
 
 ## Some things I've worked on:
-I enjoy ideating & building for underserved markets, and I've been lucky to work on a few interesting ventures](https://t18e.com/blog/idea-ball) during my time at UCL. Here are a few of my favourites:
+I enjoy ideating & building for underserved markets, and I've been lucky to work on [a few interesting ventures](https://t18e.com/blog/idea-ball) during my time at UCL. Here are a few of my favourites:
 
 * Brade: a plug-and-play accounting tool for salons and other beauty services. We built Brade to make reconciling multi-channel payments, forecasting finances and filing taxes 10x cheaper and 100x easier.
 * Pubbler: a self-learning writing assistant specifically for Substack writers built on Anthropic's Claude Sonnet model. Despite positive waitlist signalling, it didn't feel right, and I decided not to launch. 
