@@ -6,10 +6,10 @@ import Markdown from "react-markdown";
 
 const content = `
 
-## Some things about me:
-* Studying Politics at UCL with a focus on innovation policy, political theory and international political economy (IPE). 
-* Reading way more fiction with the help of [the best recommendation engine](https://en.app/) out there.
-* Writing about the implications of digital monism on relationships, consumption psychologies and political ideologies.
+## I'm currently...
+* studying Politics at UCL with a focus on innovation policy, political theory and international political economy (IPE). 
+* using reading more fiction with the help of [En](https://en.app/) to read more fiction.
+* writing about the implications of digital monism on relationships, consumption psychologies and political ideologies.
 
 ## Some things I've worked on:
 I enjoy ideating & building for underserved markets, and I've been lucky to work on a few interesting ventures](https://t18e.com/blog/idea-ball) during my time at UCL. Here are a few of my favourites:
