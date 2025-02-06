@@ -7,8 +7,8 @@ import Markdown from "react-markdown";
 const content = `
 
 ## I'm currently...
-* studying Politics at UCL with a focus on innovation policy, political theory and international political economy (IPE). 
-* using reading more fiction with the help of [En](https://en.app/) to read more fiction.
+* studying Politics at UCL with a focus on innovation policy and international political economy (IPE). 
+* reading more fiction with the [En recommendation engine](https://en.app/).
 * writing about the implications of digital monism on relationships, consumption psychologies and political ideologies.
 
 ## Some things I've worked on:
